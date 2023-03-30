@@ -1,0 +1,93 @@
+Ajax Security Team
+APT-C-36
+APT1
+APT12
+APT16
+APT17
+APT18
+APT19
+APT28
+APT29
+APT3
+APT30
+APT32
+APT33
+APT37
+APT38
+APT39
+APT41
+Axiom
+BlackOasis
+BlackTech
+Blue Mockingbird
+Bouncing Golf
+BRONZE BUTLER
+Carbanak
+Chimera
+Cleaver
+CopyKittens
+Darkhotel
+DarkHydrus
+DarkVishnya
+Dragonfly
+DragonOK
+Dust Storm
+Elderwood
+Equation
+Evilnum
+FIN10
+FIN4
+FIN5
+FIN6
+FIN7
+FIN8
+Fox Kitten
+Frankenstein
+GALLIUM
+Gallmaker
+GCMAN
+HAFNIUM
+Higaisa
+Honeybee
+Inception
+Indrik Spider
+Ke3chang
+Kimsuky
+Lazarus Group
+Leafminer
+Leviathan
+Machete
+menuPass
+Moafee
+Mofang
+Molerats
+MuddyWater
+Naikon
+NEODYMIUM
+OilRig
+Orangeworm
+Patchwork
+PittyTiger
+PLATINUM
+PROMETHIUM
+Rancor
+Rocke
+RTM
+Sharpshooter
+Sidewinder
+Silence
+SilverTerrier
+Sowbug
+Strider
+Suckfly
+TA459
+TA505
+TA551
+Taidoor
+Thrip
+Turla
+Whitefly
+Windigo
+Windshift
+WIRTE
+ZIRCONIUM
